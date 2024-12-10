@@ -1,76 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multithreaded Web Server</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        header {
-            background: #0078D7;
-            color: #fff;
-            padding: 1rem 2rem;
-            text-align: center;
-        }
-        section {
-            padding: 2rem;
-        }
-        h1, h2, h3 {
-            color: #0078D7;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 1rem;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 1rem 0;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 0.5rem;
-            text-align: center;
-        }
-        th {
-            background: #0078D7;
-            color: #fff;
-        }
-        ul {
-            margin: 1rem 0;
-            padding: 0;
-            list-style: disc;
-            padding-left: 2rem;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background: #333;
-            color: #fff;
-            margin-top: 2rem;
-        }
-        a {
-            color: #0078D7;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Multithreaded Web Server in Java</h1>
+<h1>Multithreaded Web Server in Java</h1>
     </header>
     <section>
         <p>
@@ -159,8 +88,5 @@ java WebServer
             This project is licensed under the <a href="#">MIT License</a>.
         </p>
     </section>
-    <footer>
-        <p>&copy; 2024 Multithreaded Web Server Project</p>
-    </footer>
 </body>
 </html>
