@@ -3,7 +3,7 @@
     </header>
     <section>
         <p>
-            A high-performance, Java-based web server capable of handling <strong>500,000 concurrent requests</strong> efficiently. This project demonstrates advanced concepts in <strong>multithreading</strong>, <strong>socket programming</strong>, and <strong>thread pool management</strong>, combining theoretical insights with practical implementation.
+            A high-performance, Java-based web server capable of handling <strong>600,000 concurrent requests</strong> efficiently. This project demonstrates advanced concepts in <strong>multithreading</strong>, <strong>socket programming</strong>, and <strong>thread pool management</strong>, combining theoretical insights with practical implementation.
         </p>
      <h2>Key Features</h2>
         <ul>
