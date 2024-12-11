@@ -7,7 +7,7 @@
         </p>
      <h2>Key Features</h2>
         <ul>
-            <li><strong>High Concurrency:</strong> Handles up to <strong>500,000 concurrent requests</strong> with optimized resource allocation.</li>
+            <li><strong>High Concurrency:</strong> Handles up to <strong>600,000 concurrent requests</strong> with optimized resource allocation.</li>
             <li><strong>Multi-Threaded Architecture:</strong> Implements single-threaded and multi-threaded server models, utilizing custom thread pools for peak performance.</li>
             <li><strong>Robust Client-Server Communication:</strong> Built using <strong>TCP/IP protocols</strong> and <strong>Socket Programming</strong> to ensure reliable HTTP request handling.</li>
             <li><strong>Error Recovery:</strong> Integrated mechanisms to handle unexpected errors and maintain server stability.</li>
